@@ -15,3 +15,7 @@ Here is how to pass the first level:
 
   Winning mode:
   ![Board-game win](https://user-images.githubusercontent.com/31036403/83958059-baf8f180-a86d-11ea-9cd1-e6095aac2cb1.gif)
+  
+  
+  Next level:
+![after](https://user-images.githubusercontent.com/31036403/84306392-b5482800-ab5b-11ea-9392-4fd797496af7.PNG)
